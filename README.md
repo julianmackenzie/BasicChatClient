@@ -14,5 +14,4 @@ Things this project taught me:
 TODO: Demo of chat app
 
 ![1](https://user-images.githubusercontent.com/113747039/192051363-d23df073-f344-4934-be37-9a330bba1ea7.png)
-![2](https://user-images.githubusercontent.com/113747039/192051366-8eb6d6e7-5be9-4d4c-920a-0d66ca6f6af7.png)
-![3](https://user-images.githubusercontent.com/113747039/192051371-52ad0bd1-4185-4cbd-942c-dd29261df46f.png)
+
