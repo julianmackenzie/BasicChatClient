@@ -11,7 +11,16 @@ Things this project taught me:
 3. A basic, readable user interface is the foundation for a positive user experience.
 4. I really enjoy the idea of pursuing UI design! Obviously the UI of this project is extrmely minimal and system-y, but it has me feeling inspired to create clean, user-friendly applications as I expand my knowlege of the possibilites of user interface creation.
 
-TODO: Demo of chat app
+Demonstration:
+
+Three clients each send each other messages.
 
 ![1](https://user-images.githubusercontent.com/113747039/192051363-d23df073-f344-4934-be37-9a330bba1ea7.png)
 
+Client 1 decides to directly message Client 2...
+
+![2](https://user-images.githubusercontent.com/113747039/192052007-c49ec634-8c89-48f3-a2de-107827f17a6e.png)
+
+Client 2 disconnects, Client 4 signs on.
+
+![3](https://user-images.githubusercontent.com/113747039/192052032-ac375d7f-146c-412e-a4bf-4d6bafe24d86.png)
