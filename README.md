@@ -3,7 +3,7 @@ Basic networked server and client system for online chatrooms using TCP for CS34
 
 This project utilized Java threads and sockets, new concepts to me at the time.
 
-Executing one instance of the Server process and one or more of the Client processes will allow for communication between clients via packets sent to and from the server. Clients also have the option to directly message another using the client ID of the recipient.
+Executing one instance of the Server process and one or more of the Client processes from the main menu will allow for communication between clients via packets sent to and from the server. Clients also have the option to directly message another using the client ID of the recipient.
 
 Things this project taught me:
 1. Threads are COMPLICATED!
